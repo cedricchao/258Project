@@ -43,9 +43,13 @@ npm start
 ## References
 
 https://github.com/lkk688/DeepDataMiningLearning/tree/main
+
 https://huggingface.co/docs/evaluate/en/transformers_integrations
+
 https://www.nltk.org/
+
 https://machinelearningmastery.com/calculate-bleu-score-for-text-python/
+
 https://pypi.org/project/rouge-score/
 
 
