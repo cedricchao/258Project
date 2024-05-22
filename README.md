@@ -5,10 +5,16 @@ This project is a deep learning project that generates summary of CNN news and a
 
 # Features
 
-## Upload Audio Files: Upload audio files and transcribe them to text.
-## Text Summarization: Summarize the transcribed text or user-provided text.
-## Translation: Translate the transcribed text to a different language.
-## Question Answering: Answer questions based on the transcribed text.
+## User Text Input:
+User inputs news in text form
+## Upload Audio Files: 
+Upload audio files and transcribe them to text.
+## Text Summarization: 
+Summarize the transcribed text or user-provided text.
+## Translation: 
+Translate the transcribed text to a different language.
+## Question Answering: 
+Answer questions based on the transcribed text.
 
 
 # Packages
