@@ -23,7 +23,10 @@ Answer questions based on the transcribed text.
 React, Axios
 
 ## Backend: 
-Flask, Flask-CORS, Hugging Face Transformers, PyTorch
+Flask, Flask-CORS
+
+## Machine Learning 
+Hugging Face Transformers, PyTorch
 
 
 # Setups
