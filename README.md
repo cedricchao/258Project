@@ -1,7 +1,7 @@
 # Deep Learning Project - Text Summarization of CNN News
 Weihua Zhao 017467346
 
-This project is a React-based web application for text summarization, translation, and question-answering. It allows users to upload audio files, transcribe them, and process the transcribed text using various NLP tasks.
+This project is a deep learning project that generates summary of CNN news and a React-based web application for text summarization, translation, and question-answering. It allows users to upload audio files, transcribe them, and process the transcribed text using various NLP tasks.
 
 # Features
 
@@ -13,13 +13,11 @@ This project is a React-based web application for text summarization, translatio
 
 # Packages
 
-## Frontend: React, Axios
-## Backend: Flask, Flask-CORS, Hugging Face Transformers, PyTorch
-## Node.js
-## Python
-## Flask
-## PyTorch
-## GoogleColab
+## Frontend: 
+React, Axios
+
+## Backend: 
+Flask, Flask-CORS, Hugging Face Transformers, PyTorch
 
 
 # Setups
